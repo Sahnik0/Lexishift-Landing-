@@ -632,7 +632,7 @@ function App() {
               <ul className="space-y-4">
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/sahnik-biswas-8514012a7"
+                    href="https://lexicare.vercel.app/"
                     className={`text-gray-400 hover:text-white transition-colors text-lg ${theme === "dark" ? "hover:text-white" : "hover:text-black"} light-theme:text-gray-600 light-theme:hover:text-black`}
                   >
                     Find Specialists
@@ -656,7 +656,7 @@ function App() {
                 </li>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/sahnik-biswas-8514012a7"
+                    href="https://lexilearn-neon.vercel.app/"
                     className={`text-gray-400 hover:text-white transition-colors text-lg ${theme === "dark" ? "hover:text-white" : "hover:text-black"} light-theme:text-gray-600 light-theme:hover:text-black`}
                   >
                     Learning Resources
@@ -717,7 +717,7 @@ function App() {
                   <Github className="w-8 h-8" strokeWidth={1.5} />
                 </motion.a>
                 <motion.a
-                  href="tb123983@gmail.com"
+                  href="forloopdeloop@gmail.com"
                   className="text-gray-400 hover:text-white transition-colors light-theme:hover:text-black"
                   whileHover={{ scale: 1.2 }}
                   whileTap={{ scale: 0.9 }}
