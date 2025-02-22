@@ -684,7 +684,7 @@ function App() {
             <div>
               <h4 className="text-lg font-semibold mb-6">Contact</h4>
               <ul className="space-y-4">
-                <li className="text-gray-400 text-lg light-theme:text-gray-600">Email: tb123983@gmail.com</li>
+                <li className="text-gray-400 text-lg light-theme:text-gray-600">Email: forloopdeloop@gmail.com</li>
                 <li className="text-gray-400 text-lg light-theme:text-gray-600">Phone: +91 7407902174</li>
                 <li className="text-gray-400 text-lg light-theme:text-gray-600">Address: Barasat</li>
               </ul>
