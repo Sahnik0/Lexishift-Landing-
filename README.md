@@ -43,7 +43,7 @@ An engaging, interactive learning module designed to make education fun and acce
 
 ![WhatsApp Image 2025-02-23 at 11 39 52_daf95684](https://github.com/user-attachments/assets/705b5970-e686-4627-a9d8-86a99728b8f5)
 
-### 🤖 AI Chat Support
+### 🤖 AI Therapist
 An AI-powered chatbot that offers friendly assistance and guidance for dyslexic individuals in their daily lives.
 
 [Chat with AI](https://github.com/Shovon0004/Lexi-Care)
@@ -76,7 +76,7 @@ The landing page is deployed at: **[LexiShift Landing Page](https://lexishift.ve
 - **PDF Converter:** [GitHub Repo](https://github.com/your-repo-link)
 - **Digital Library:** [GitHub Repo](https://github.com/your-repo-link)
 - **Learning Platform:** [GitHub Repo](https://github.com/your-repo-link)
-- **AI Chat Support:** [GitHub Repo](https://github.com/your-repo-link)
+- **AI Therapist:** [GitHub Repo](https://github.com/your-repo-link)
 
 ## 👥 Contributors
 <table>
