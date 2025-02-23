@@ -46,7 +46,7 @@ An engaging, interactive learning module designed to make education fun and acce
 ### 🤖 AI Therapist
 An AI-powered chatbot that offers friendly assistance and guidance for dyslexic individuals in their daily lives.
 
-[Chat with AI](https://github.com/Shovon0004/Lexi-Care)
+[Chat with AI](https://dyslexic.onrender.com/)
 
 ![WhatsApp Image 2025-02-23 at 11 48 08_ac55d7af](https://github.com/user-attachments/assets/b5da91d2-87f8-4729-a4c7-9a11957d7973)
 
@@ -71,12 +71,12 @@ The landing page is deployed at: **[LexiShift Landing Page](https://lexishift.ve
 ![WhatsApp Image 2025-02-23 at 11 29 48_852ecb24](https://github.com/user-attachments/assets/606d2c12-ee8c-4ea5-bbc2-24cd934e660c)
 
 ## 🔗 GitHub Repositories for Each Module
-- **Interactive Community:** [GitHub Repo](https://github.com/your-repo-link)
-- **LexiCare:** [GitHub Repo](https://github.com/your-repo-link)
-- **PDF Converter:** [GitHub Repo](https://github.com/your-repo-link)
-- **Digital Library:** [GitHub Repo](https://github.com/your-repo-link)
-- **Learning Platform:** [GitHub Repo](https://github.com/your-repo-link)
-- **AI Therapist:** [GitHub Repo](https://github.com/your-repo-link)
+- **Community:** [GitHub Repo](https://github.com/sanks011/LexiLearn)
+- **LexiCare:** [GitHub Repo](https://github.com/Shovon0004/Lexi-Care)
+- **PDF Converter:** [GitHub Repo](https://github.com/sanks011/LexiShift)
+- **Digital Library:** [GitHub Repo](https://github.com/sanks011/LexiShift)
+- **Learning Platform:** [GitHub Repo](https://github.com/sanks011/LexiLearn)
+- **AI Chat Support:** [GitHub Repo](https://github.com/Shovon0004/Dyslexic)
 
 ## 👥 Contributors
 <table>
