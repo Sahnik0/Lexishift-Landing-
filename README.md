@@ -76,7 +76,7 @@ The landing page is deployed at: **[LexiShift Landing Page](https://lexishift.ve
 - **PDF Converter:** [GitHub Repo](https://github.com/sanks011/LexiShift)
 - **Digital Library:** [GitHub Repo](https://github.com/sanks011/LexiShift)
 - **Learning Platform:** [GitHub Repo](https://github.com/sanks011/LexiLearn)
-- **AI Chat Support:** [GitHub Repo](https://github.com/Shovon0004/Dyslexic)
+- **AI Therapist:** [GitHub Repo](https://github.com/Shovon0004/Dyslexic)
 
 ## 👥 Contributors
 <table>
