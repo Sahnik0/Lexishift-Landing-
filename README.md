@@ -44,7 +44,7 @@ An engaging, interactive learning module designed to make education fun and acce
 ![WhatsApp Image 2025-02-23 at 11 39 52_daf95684](https://github.com/user-attachments/assets/705b5970-e686-4627-a9d8-86a99728b8f5)
 
 ### 🤖 AI Therapist
-An AI-powered chatbot that offers friendly assistance and guidance for dyslexic individuals in their daily lives.
+An AI-powered Therapist that offers friendly assistance and guidance for dyslexic individuals in their daily lives.
 
 [Chat with AI](https://dyslexic.onrender.com/)
 
