@@ -23,11 +23,11 @@ This repository contains the **landing page** of LexiShift, which:
 All core features are deployed separately and accessible via links from the landing page.
 
 ## 💻 Tech Stack
-- **Frontend:** React.js, TypeScript, Vite, TailwindCSS
-- **Backend:** Flask, Firebase
+- **Frontend:** React.js, TypeScript, Vite, TailwindCSS, Javascript
+- **Backend:** Flask, Firebase, Mongo
 - **Database:** Firestore
 - **AI Integration:** OpenAI API, Gemini API
-- **Deployment:** Vercel, Firebase Hosting
+- **Deployment:** Vercel
 
 ## 🔗 Deployment
 The landing page is deployed at: **[LexiShift Landing Page](https://lexishift.vercel.app)**
