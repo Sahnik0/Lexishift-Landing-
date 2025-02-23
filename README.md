@@ -32,7 +32,7 @@ Converts PDFs into OpenDyslexic font with customizable letter spacing, line spac
 ### 📚 Digital Library
 A collection of pre-downloaded e-books available in OpenDyslexic font, ensuring easy access to dyslexia-friendly reading material.
 
-[Visit Library](https://your-library-link.com)
+[Visit Library](https://lexishift.onrender.com/learn_more)
 
 ![WhatsApp Image 2025-02-23 at 11 46 51_4a751a33](https://github.com/user-attachments/assets/8c6b3520-ae5b-4beb-99bd-2c8402901e81)
 
