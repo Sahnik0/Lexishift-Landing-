@@ -618,11 +618,11 @@ function App() {
               },
               {
                 icon: MessageSquareMore,
-                title: "AI Chat Support",
+                title: "AI Therapist",
                 description:
-                  "Get instant help and guidance from our AI-powered chatbot, available 24/7 to assist with any questions.",
+                  "Get instant help and guidance from our AI-powered Therapist, available 24/7 to assist with any questions.",
                 buttonText: "Start Chat",
-                link: "https://dyslu-bot.vercel.app/",
+                link: "https://dyslexic.onrender.com/",
               },
             ].map((feature, index) => (
               <FeatureCard key={index} {...feature} index={index} theme={theme} />
