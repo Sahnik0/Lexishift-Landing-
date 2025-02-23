@@ -220,6 +220,12 @@ const FeatureCard = ({
   const y = useTransform(scrollYProgress, [0, 1], [100, -100])
   const opacity = useTransform(scrollYProgress, [0, 0.3, 0.6, 1], [0, 1, 1, 0])
 
+  // Handle navigation in same tab
+  const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
+    e.preventDefault()
+    window.location.href = link
+  }
+
   return (
     <motion.div
       ref={ref}
@@ -257,8 +263,7 @@ const FeatureCard = ({
       </p>
       <motion.a
         href={link}
-        target="_blank"
-        rel="noopener noreferrer"
+        onClick={handleClick}
         className={`${
           theme === "dark"
             ? "bg-white text-black hover:bg-gray-200"
